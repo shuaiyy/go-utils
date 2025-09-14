@@ -7,7 +7,7 @@ toolchain go1.23.2
 require (
 	github.com/go-kratos/kratos/v2 v2.8.4
 	github.com/stretchr/testify v1.10.0
-	github.com/shuaiyy/go-utils v1.1.29
+	github.com/shuaiyy/go-utils v0.0.1
 )
 
 require (

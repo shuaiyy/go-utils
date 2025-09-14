@@ -11,7 +11,7 @@ require (
 	github.com/rs/xid v1.6.0
 	github.com/segmentio/ksuid v1.0.4
 	github.com/stretchr/testify v1.10.0
-	github.com/shuaiyy/go-utils v1.1.27
+	github.com/shuaiyy/go-utils v0.0.1
 )
 
 require (

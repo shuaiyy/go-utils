@@ -12,8 +12,8 @@ require (
 	github.com/XSAM/otelsql v0.40.0
 	github.com/go-kratos/kratos/v2 v2.9.1
 	github.com/google/uuid v1.6.0
-	github.com/shuaiyy/go-utils v1.1.29
-	github.com/shuaiyy/go-utils/id v0.0.2
+	github.com/shuaiyy/go-utils v0.0.1
+	github.com/shuaiyy/go-utils/id v0.0.1
 	github.com/stretchr/testify v1.11.1
 	go.opentelemetry.io/otel v1.38.0
 	google.golang.org/protobuf v1.36.9
