@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 定义主版本号
-MAIN_VERSION="v0.0.1"
+MAIN_VERSION="v0.0.2"
 
 # 定义模块列表
 MODULES=(
@@ -21,7 +21,7 @@ MODULES=(
 )
 
 # 定义模块版本
-MODULE_VERSION="v0.0.1"
+MODULE_VERSION="v0.0.2"
 
 echo "创建主版本标签..."
 git tag $MAIN_VERSION
