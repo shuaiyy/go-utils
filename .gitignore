@@ -33,5 +33,5 @@ bin/
 .vscode/
 .idea/
 *.swp
-.sereba/
+.serena/
 .claude/
