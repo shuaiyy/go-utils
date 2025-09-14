@@ -6,7 +6,7 @@ toolchain go1.24.6
 
 require (
 	github.com/jinzhu/copier v0.4.0
-	github.com/shuaiyy/go-utils v0.0.1
+	github.com/shuaiyy/go-utils v0.0.2
 )
 
 require (
